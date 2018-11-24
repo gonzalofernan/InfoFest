@@ -1,0 +1,9 @@
+{	
+	"Facebook":{
+		"tokenUrl":"https://graph.facebook.com/v2.8/oauth/access_token",
+		"clientId":"1836363329748844",
+		"clientSecret":"147454ff0d4808616e4c99e86fd6ed74" ,
+		"authorizationFormUrl":"https://www.facebook.com/v2.8/dialog/oauth",
+		"scopes":["publish_actions","user_friends","user_posts"]
+	}
+}		
